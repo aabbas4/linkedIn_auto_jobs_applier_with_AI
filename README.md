@@ -13,7 +13,7 @@
 </div>
 <br />
 
-<!-- Message Clarity -->
+<!-- Message Cl020202arity -->
 ## 🚀 Join the AIHawk Community 🚀 
 
 Connect with like-minded individuals and get the most out of AIHawk.
